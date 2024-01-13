@@ -1,4 +1,4 @@
-# BITVM：在比特币上进行任何计算
+# BitVM：在比特币上进行任何计算
 
 ​								作者：Robin Linus
 ​							   robin@zerosync.org
