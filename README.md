@@ -54,7 +54,7 @@ This activates the contract and they can start exchanging off-chain data to trig
 
 这激活了合约，他们可以开始交换链下数据以触发电路中的状态变化。如果证明者提出任何不正确的声明，验证者可以拿走他们的存款。这保证了攻击者总是会损失他们的存款。
 
-## 3. Bit Value承诺 (Bit Value Commitment)
+## 3. 比特值承诺 (Bit Value Commitment)
 
 The bit value commitment is the most elementary component of the system. It allows the prover to set the value of a particular bit to either "0" or "1" . Especially, it allows the prover to set the value of a variable across different Scripts and UTXOs. This is key, as it extends the execution runtime of Bitcoin's VM by splitting it across multiple transactions.
 
@@ -99,7 +99,7 @@ Figure 2: Logic gate commitment for a NAND operation. Executing this script requ
 图2：NAND操作的逻辑门承诺。执行此脚本需要揭示比特承诺A、B和C的值，使得A NAND B = C成立。
 （在这里，我们为简单起见假设存在用于OP NAND的操作码。实际上它并不存在，然而，可以使用OP BOOLAND和OP NOT轻松实现。）
 
-## 5. Binary Circuit承诺 (Binary Circuit Commitment)
+## 5. 二进制电路承诺 (Binary Circuit Commitment)
 
 In the previous section we defined NAND gate commitments. We can express any circuit by composing gate commitments. Every step of the execution is committed to in a Tapleaf. They're are all combined into the same Taproot address, such that the prover could execute any gate in the circuit. Executing a gate requires the prover to open the corresponding gate commitment and set values for its inputs and output bits.
 The Taptree might become huge and have a billion Tapleaf Scripts, but its on-chain footprint is minimal.
