@@ -197,4 +197,4 @@ Special thanks to Super Testnet and Sam Parker, who always kept refusing to beli
 
 <div align=center><img width = '80' height ='80' src ="images/bitvm-developers-address.png"/></div>
 
-<center>Sponsor BitVM developers: bc1qf5g6z0py2t3t49gupeqrlewga0qz2etalu4xf9</center>
+<div align=center>Sponsor BitVM developers: bc1qf5g6z0py2t3t49gupeqrlewga0qz2etalu4xf9</div>
