@@ -197,7 +197,7 @@ Special thanks to Super Testnet and Sam Parker, who always kept refusing to beli
 
 [1]: Ethereum Research. Optimistic rollups. <https://ethereum.org/en/developers/docs/scaling/optimistic-rollups/>, 2022. <br>
 [2]: Salvatore Ingala. Merkleize all the things. <https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-November/021182.html>, 2022. <br>
-[3] Jeremy Rubin. CheckSigFromStack for 5 Byte Values. https://rubin.io/blog/2021/07/02/signing-5-bytes, 2021.
+[3] Jeremy Rubin. CheckSigFromStack for 5 Byte Values. https://rubin.io/blog/2021/07/02/signing-5-bytes, 2021.<br>
 
 <div align=center><img width = '80' height ='80' src ="images/bitvm-developers-address.png"/></div>
 
