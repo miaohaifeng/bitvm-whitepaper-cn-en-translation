@@ -2,11 +2,11 @@
 
 ​								作者：Robin Linus
 ​							   robin@zerosync.org
-​								www.bitvm.org 
+​								[www.bitvm.org](https://bitvm.org/) 
 ​								2023.12.12
 
 ​								中文翻译：Bitlayer
-​								bitlayer.org 
+​								[bitlayer.org](https://bitlayer.org/) 
 ​								2023.12.12
 
 
